@@ -128,9 +128,15 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  /*background-color: ;*/
 }
 
 main {
-  max-width: 22rem;
+  max-width: 25rem;
   margin: auto;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+button {
 }
